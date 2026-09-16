@@ -388,7 +388,7 @@
     "name": "Tablet Sleeve Lite",
     "category": "Accessories",
     "price": 88,
-    "stock": 1,
+    "stock": 0,
     "rating": 4.7
   },
   {
@@ -444,7 +444,7 @@
     "name": "Clip Microphone Basic",
     "category": "Audio",
     "price": 914,
-    "stock": 1,
+    "stock": 0,
     "rating": 4
   },
   {
@@ -468,7 +468,7 @@
     "name": "Capture Card Max",
     "category": "Gaming",
     "price": 1000,
-    "stock": 20,
+    "stock": 0,
     "rating": 3.3
   },
   {
